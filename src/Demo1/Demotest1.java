@@ -13,5 +13,7 @@ public class Demotest1 {
 
 	
 	System.out.println("Java Is Fun");
+	
+	System.out.println("Hello World");
 }
 }
